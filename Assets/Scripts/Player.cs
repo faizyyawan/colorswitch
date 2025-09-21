@@ -16,6 +16,12 @@ public class Player : MonoBehaviour
     public Color ColorPurple;
     public Color ColorPink;
    
+
+
+
+
+
+   
     
 
     // Start is called before the first frame update
