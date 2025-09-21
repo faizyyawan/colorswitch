@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 {
 
     public UIManager uiManager;
-    public float JumpForce = 10f;
+   [SerializeField] public float JumpForce = 10f;
     public Rigidbody2D RB;
     public string currentColor;
 
@@ -21,7 +21,7 @@ public class Player : MonoBehaviour
 
 
 
-   
+
     
 
     // Start is called before the first frame update
